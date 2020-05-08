@@ -1,0 +1,198 @@
+.icons{
+    background-color: blue;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    color: honeydew;
+}
+.icons a{
+    text-decoration: none;
+    color: green;
+    text-indent: 5px;    
+}
+    
+
+.nav ul li{
+    display: inline-block;
+    text-align: left;
+}
+.nav ul li a{
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    padding: 12px;
+    float: left; 
+    box-shadow: 5px 5px 3px gray;
+    border-radius: 50px; 
+
+}
+.nav ul li a:hover{
+    background-color: cornflowerblue;
+    color:white;
+    
+}
+
+.main{
+    background-color: blue;
+    color: cornsilk;
+    padding: 10px;
+}
+.main1{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.main2{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.para3{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.para4{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.main3{
+    background-color: blue;
+}
+.bgcolor{
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    <span style="color: blue;"> WHAT WE </span>
+    <span style="color: green;"> ARE DOING? </span>
+}
+.Green{
+    color: greenyellow
+
+}
+.Blue{
+    color: blue;
+}
+.Green1{
+    color: green;
+}
+ 
+.box11 td{
+    border: 2px solid black;
+    padding: 90px 90px 90px 90px;
+    box-shadow: 5px 2px 10px black;
+    text-align: center;
+    color: blue;
+    
+   
+}
+.box11{
+    margin: 0 auto;
+    border-spacing: 20px 20px;
+}
+h2{
+    padding: 60px;
+    color: blue;
+}
+.coloor{
+    color: green;
+    
+}
+.maindiv{
+
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.coming{
+    flex: 5;
+}
+
+.upcoming{
+    flex: 1;
+    margin-right: 50px;
+    color: blue;
+    margin-top: 55px;
+}
+.upcoming p{
+    font-size: 14px;
+    color:black;
+}
+
+.box22 td{
+
+    border: 2px solid black;
+    width: 400px;
+    height: 50px;
+}
+.box22{
+
+    border-spacing: 50px 50px;
+    margin: 15px 15px;
+    
+}
+.upcoming h1{
+    font-size: 25px;
+}
+.space{
+    padding: 80px;
+}
+
+.secondlastfooter{
+    display: flex;
+    background-color: #25272e;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.connectwithus img{
+    width: 35px;
+    cursor: pointer;
+}
+.secondlastfooter p{
+    color: white;
+}
+
+.secondlastfooter h3{
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+ }
+
+.contactinfo{
+    margin-left: 50px;
+    flex: 1;
+    padding-top: 50px;
+}
+
+.useful{
+    text-align: left;
+    flex: 1;
+}
+.connectwithus{
+    flex: 1;
+    margin-left: 20px;
+}
+.foot{
+    background-color:  blue;
+    color: #f1f1f1;
+    padding: 10px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
